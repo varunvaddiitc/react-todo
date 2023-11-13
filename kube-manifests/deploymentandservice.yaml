@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: acrvarunregistry.azurecr.io/reactapp
+          image: acrvarunregistry.azurecr.io/varunreact
           ports:
             - containerPort: 3000
 
