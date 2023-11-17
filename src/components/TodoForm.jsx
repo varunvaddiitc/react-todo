@@ -20,7 +20,7 @@ export default function TodoForm(props) {
     }
     return (
         <div>
-            <h1>Todo <span>App</span>updatedversion</h1>
+            <h1>Todo <span>App</span>updatedversion2.0</h1>
             <form className="form" onSubmit={onFormSubmit}>
                 <div className="inputs">
                     <input type="text" placeholder="Name" value={enteredName} onChange={onEnterName}/>
